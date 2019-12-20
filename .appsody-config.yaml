@@ -1,0 +1,2 @@
+project-name: my-example2
+stack: kabanero/nodejs-express:0.2
